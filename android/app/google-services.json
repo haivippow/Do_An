@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "423477841626",
+    "firebase_url": "https://nguyendinhhai-default-rtdb.firebaseio.com",
+    "project_id": "nguyendinhhai",
+    "storage_bucket": "nguyendinhhai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423477841626:android:2dfc7a4a30b6128b521fe3",
+        "android_client_info": {
+          "package_name": "com.example.do_an_dd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1bsq_n37ql1ZYQeqJaBg-APsXuv4R7rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
